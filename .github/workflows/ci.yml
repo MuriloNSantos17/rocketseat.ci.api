@@ -1,5 +1,6 @@
 name: CI
 
+on:
 jobs: 
   build:
     name: 'Build and Push'
